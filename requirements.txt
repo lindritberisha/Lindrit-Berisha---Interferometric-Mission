@@ -1,0 +1,6 @@
+heyoka
+pygmo
+numpy
+matplotlib
+pandas
+notebook
